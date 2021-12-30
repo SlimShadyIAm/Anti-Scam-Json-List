@@ -1,5 +1,6 @@
 {
-	"antiscamnames": ["pangu8",
+	"antiscamnames": [
+		"pangu8",
 		"zeejb",
 		"zeon-app",
 		"silzee",
@@ -10,12 +11,15 @@
 		"taig9",
 		"zjailbreak",
 		"cydiacloud",
-		"cydiafree"
+		"cydiafree",
+		"zylonapp",
+		"siberkalem"
 	],
 	"antiscamurls": [
 		"pangu8.com",
 		"zeejb.com",
 		"zeon-app.xyz",
+		"zeon-app.com",
 		"silzee.com",
 		"hexxaplus.com",
 		"ibundles.org",
@@ -33,6 +37,14 @@
 		"iexmo.com",
 		"apphacks.co",
 		"hawkdive.com",
-		"siberkalem.com"
+		"siberkalem.com",
+		"u04s.com",
+		"unc0ver.vip",
+		"imobie.com",
+		"tweak-box.com",
+		"downloadpangu.org",
+		"intrixjb.com",
+		"jailbreak-ios15.web.app",
+		"ios-jailbreak.com"
 	]
 }

@@ -1,8 +1,11 @@
 {
-	"antiswear": ["fuck",
+	"antiswear": [
+		"fuck",
 		"bitch",
 		"pussy",
 		"cocksucker",
-		"nigga"
+		"nigga",
+		"cunt",
+		"asshole"
 	]
 }
