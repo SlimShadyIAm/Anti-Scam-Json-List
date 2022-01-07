@@ -1,1 +1,1 @@
-# anti-scam-swear-json-list
+# Anti Scam List
