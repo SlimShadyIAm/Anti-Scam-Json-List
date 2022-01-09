@@ -14,6 +14,16 @@ f.write(str(scamideviceunlockurls).replace("'", '"').replace("[", "[\n\t\t").rep
 f.write('\n}')
 f.close()
 
+for i in scamjburls:
+    for z in i:
+        if z.isupper():
+            print("Capital:", i)
+
+for i in scamideviceunlockurls:
+    for z in i:
+        if z.isupper():
+            print("Capital:", i)
+
 for i in range(len(scamjburls)):
     for j in range(i + 1, len(scamjburls)):
         if scamjburls[i] == scamjburls[j]:
@@ -23,3 +33,5 @@ for i in range(len(scamideviceunlockurls)):
     for j in range(i + 1, len(scamideviceunlockurls)):
         if scamideviceunlockurls[i] == scamideviceunlockurls[j]:
             print("Duplicate:", scamideviceunlockurls[i])
+
+print("Done")
